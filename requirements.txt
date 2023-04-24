@@ -1,0 +1,3 @@
+opencv-python
+pypdf2
+pillow
